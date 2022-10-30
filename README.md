@@ -6,7 +6,7 @@ A collection of two dimensional animations that are triggered by sound.
 
 Prototyped with [Processing](http://processing.org/), built with [JavaScript](http://jonobr1.github.com/two.js).
 
-# Description
+# PatTap Simulator
 
 WARNING!This project containts flashing lights and bright colors.
 I made this site for practice as a simulator of well-known PataTap site.
